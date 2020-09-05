@@ -1,0 +1,6 @@
+nltk
+newspaper3k
+news-please
+Unidecode
+pymongo
+# colorama
